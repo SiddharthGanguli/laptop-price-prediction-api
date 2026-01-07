@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+pyyaml
+joblib
+mlflow
+python-dotenv
+dvc
+dvc-gdrive

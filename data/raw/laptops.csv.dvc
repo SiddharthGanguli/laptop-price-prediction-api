@@ -1,0 +1,5 @@
+outs:
+- md5: 074ecd28eff4d7cbe0a92da258155d8b
+  size: 298573
+  hash: md5
+  path: laptops.csv

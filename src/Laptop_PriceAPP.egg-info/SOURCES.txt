@@ -1,0 +1,5 @@
+setup.py
+src/Laptop_PriceAPP.egg-info/PKG-INFO
+src/Laptop_PriceAPP.egg-info/SOURCES.txt
+src/Laptop_PriceAPP.egg-info/dependency_links.txt
+src/Laptop_PriceAPP.egg-info/top_level.txt

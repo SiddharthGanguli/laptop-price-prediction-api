@@ -1,0 +1,16 @@
+columns:
+  Laptop: object
+  Status: object
+  Brand: object
+  Model: object
+  CPU: object
+  RAM: int
+  Storage: int
+  Storage type: object
+  GPU: object
+  Screen: float
+  Touch: bool
+  Final Price: float
+
+target_column:
+  name: Final Price
